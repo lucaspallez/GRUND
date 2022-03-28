@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name RFM95W-868S2)(type Legacy)(uri "E:/Other computers/My Computer/Desktop/ERT/HPR/SMORT/Symbols/RFM95W-868S2/RFM95W-868S2.lib")(options "")(descr ""))
+  (lib (name 2V7002WT1G)(type Legacy)(uri "E:/Other computers/My Computer/Desktop/ERT/HPR/SMORT/Symbols/2V7002WT1G/2V7002WT1G.lib")(options "")(descr ""))
+  (lib (name 2022-02-04_16-38-01)(type Legacy)(uri "E:/Other computers/My Computer/Desktop/ERT/HPR/SMORT/Symbols/ul_LSM115JE3-TR13/KiCAD/2022-02-04_16-38-01/2022-02-04_16-38-01.lib")(options "")(descr ""))
+  (lib (name CMI-9605IC-0380T)(type Legacy)(uri "E:/Other computers/My Computer/Desktop/ERT/HPR/SMORT/Symbols/CMI-9605IC-0380T/CMI-9605IC-0380T.lib")(options "")(descr ""))
+  (lib (name smort_1_gs-rescue)(type Legacy)(uri ${KIPRJMOD}/smort_1_gs-rescue.lib)(options "")(descr ""))
+)
